@@ -1,13 +1,13 @@
 # Alfred
 A collection of snippits and workflows I use most with Alfred. 
 
-###Snippits
+### Snippits
 * General stuff like arrows etc, I also have one for 'ttt'-'tweets' for the tweets workflow to speed things up.
 * Email, all my email addresses I can get by just doing @ and then the first letter of the domain, also my usual email signoff.
 * Some math notation.
 * All the numbers as superscript and subscript and some letters as subscript.
 
-###Workflows
+### Workflows
 * timezone expander e.g "tz 1pm London ET PT" →  "1pm London / 8am ET / 5am PT"
   (see https://github.com/devonzuegel/timezone-expander.alfredworkflow for installation instructions)
 * Google maps. Basically only use this in the form of "dir placeA to placeB" and this will open up google maps with a route from A to B.
